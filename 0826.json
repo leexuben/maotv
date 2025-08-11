@@ -4,7 +4,33 @@
     
 "sites":[
 {"key":"豆","name":"首页","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"贱贱","name":"🐭荐片┃不卡","type":3,"api":"csp_JPJGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
+    {
+        "key": "红牛资源",
+        "name": "🎀红牛|采集",
+        "type": 1,
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影"]
+    },
+    {
+        "key": "极速资源",
+        "name": "🎀极速|采集",
+        "type": 1,
+        "api": "https://jszyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
+    },
+    {
+        "key": "量子资源",
+        "name": "🎀量子|采集",
+        "type": 1,
+        "api": "https://cj.lziapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
+    },
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
