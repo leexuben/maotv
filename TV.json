@@ -80,6 +80,17 @@
       "quickSearch": 1,
       "filterable": 0
     },
+     {
+      "key": "零度影视",
+      "name": "零度｜影视",
+      "type": 3,
+      "api": "./lib/零度影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
