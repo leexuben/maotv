@@ -28,6 +28,15 @@
       "filterable": 0,
       "ext": "https://www.xb6v.com/"
     },
+     {
+      "key": "巧技二",
+      "name": "巧技┃仅搜索",
+      "jar":"http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+    },
       {
       "key": "csp_xlys",
       "name": "修罗┃无搜索",
