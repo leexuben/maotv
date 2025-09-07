@@ -157,6 +157,18 @@
       "quickSearch": 1,
       "filterable": 0
     },
+      {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/f1.txt",  
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
