@@ -9,6 +9,27 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "贱贱",
+      "name": "🐭荐片┃P2P",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+       {
+      "key": "csp_xlys",
+      "name": "修罗┃无搜索",
+      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/fix250711.jar",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
+    },
        {
       "key": "巧技二",
       "name": "巧技┃仅搜索",
@@ -57,27 +78,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "贱贱",
-      "name": "🐭荐片┃P2P",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-       {
-      "key": "csp_xlys",
-      "name": "修罗┃无搜索",
-      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leexuben/maotv/refs/heads/master/jar/fix250711.jar",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
     },
      {
       "key": "零度影视",
